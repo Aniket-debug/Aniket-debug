@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Aniket Agarwal</h1>
-<h3 align="center">Currently pursuing Bachelors of Technology in Computer Science. I'm an Open Source Enthusiast, Web Developer and Competitive Programmer.</h3>
+<h3 align="center">Currently pursuing Bachelors of Technology in Computer Science. I'm an Open Source, DSA Enthusiast and Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniket-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Aniket-debug" /> </p>
 
@@ -37,4 +37,3 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket-debug&show_icons=true&locale=en&layout=compact" alt="Aniket-debug" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-debug&show_icons=true&locale=en" alt="Aniket-debug" /></p>
