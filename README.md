@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I’m Aniket Agrawal.
 - 👀 I’m interested in Open Source Contributions, Web Development and Competitive Programming.
-- 🌱 I’m currently learning Data Structures and Algorithms, Web development using MERN stack.
+- 🌱 I’m currently learning Data Structures and Algorithms, Web development.
 - 💞️ I’m looking to collaborate on any project in which I can learn new skills
 - 📫 How to reach me ...
 - Mail me at - aniketagarwal512@gmail.com
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Aniket Agarwal</h1>
-<h3 align="center">Currently pursuing Bachelors of Technology in Computer Science. I'm an Open Source, DSA Enthusiast and Competitive Programmer.</h3>
+<h3 align="center">Currently pursuing Masters of Technology from IIT Guwahati. I'm an Open Source, DSA Enthusiast and Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniket-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Aniket-debug" /> </p>
 
