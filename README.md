@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms, Web development using MERN stack.
 - 💞️ I’m looking to collaborate on any project in which I can learn new skills
 - 📫 How to reach me ...
-- Mail me at - aniketgarg187@gmail.com
+- Mail me at - aniketagarwal512@gmail.com
 - Connect with me on LinkedIn - https://www.linkedin.com/in/aniket-agarwal-226a551b1/
 
 
@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Data Structure, Open Source**
 
-- 📫 How to reach me **aniketgarg187@gmail.com**
+- 📫 How to reach me **aniketagarwal512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aniket-agarwal-226a551b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aniket-debug" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniketgarg187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketgarg187" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aniket_1607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketgarg187" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/nik_017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nik_017" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aniket_is_dumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aniket_is_dumb" height="30" width="40" /></a>
 </p>
